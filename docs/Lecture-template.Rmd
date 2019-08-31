@@ -1,0 +1,36 @@
+---
+title: "Class Lesson Template"
+author: "Joe Roith"
+date: "Aug 31 2019"
+output: html_document
+---
+
+
+### Time/Location
+
+Tuesdays: 11:45 - 1:10 PM (85 min)
+Thursdays: 12:45 - 2:05 PM (80 min)
+
+RNS 210
+
+### Breakdown
+
+| Part | Topic | Description | Duration |
+| ---- | ---------------- | ------------------------------- | ---------- |
+| 0.1 | **Orientation** | Big Picture Map with where we are| 0 min |
+| 0.2 | **QOD**| Question of the day from Chapter or elsewhere. Put on board | 0 min |
+| 0.3 | **Mindfulness** | Start class with quiet reflection of QOD or to center themselves| ~5 min |
+| | | **Begin Class - Housekeeping items** |
+| 1 | **Discussion** | QOD, select case study from chapter to discuss as group. Work through problems together or in groups. | 20 - 30 min |
+| 2 | **Lecture** | Important topics from chapter, slides, examples, SPSS | 30 -40 min |
+| 3 | **Active Learning** | More discussion and activities from Mindful Moments list, something new each class | ~15 min |
+| 4 | **Open** | Further question or parking lot for next class | ~5 min|
+| 5 | **Wrap-up**| Either short writtenreflections of what was learned that day or quick assessments (Thursdays) | ~5 min |
+| | | **See you next time!** |
+
+
+
+
+
+
+
