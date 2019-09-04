@@ -1,5 +1,5 @@
 ---
-title: "Globe Toss"
+title: "Introductions"
 output: 
   learnr::tutorial:
     theme: "journal"
@@ -13,60 +13,137 @@ library(learnr)
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Question:
 
-## How much of the Earth is covered with water?
+### How much of the Earth's surface is covered with water?
 
-You might already have an answer to this question, or at least an approximate guess. But how could we answer it using only an inflateable globe? No phone. No Google. No other resources. Is it alright to guess your answer? Probably, since the stake are low (who cares if you are wrong). What if the question had more serious implications?
+You might already have an answer to this question, or at least an approximate guess. But how could we answer it using only an inflatable globe? No phone. No Google. No other resources. 
 
-In statistics, we try to answer all types of questions with limited resources. We can't just Google `Which genes increase the risk of skin cancer?` We use **data** from a **sample** to try and answer questions about a **population**.
+ * Is it alright to guess your answer?  
+ 
+ * What if the question had more serious implications?
 
-  > What are some questions you would like to answer using data? What is the population? What might you use as a sample?
+![Courtsey: Google Earth](images/earth.jpg)
+
+### This course
+
+In statistics, we try to answer all types of questions with limited resources. We can't expect an accurate answer by Googling `Which genes increase the risk of skin cancer?` We use **data** from a **sample** to try and answer questions about a **population**.
+
+### Your turn 
+
+> What are some questions you would like to answer using data? What is the population? What might you use as a sample?
 
 ## Collecting Data
 
 ### Rewind
-Back to the original question, how might we determine the percentage (or *proportion*) of Earth that is covered by water using the globe?
+Back to the original question, how might we determine the percentage (or **proportion**) of Earth's surface that is covered by water using the globe? Here are a couple guidelines to keep in mind about possible methods.
+
+* Should produce accurate results.
+
+* Should be easy to complete.
+
+* Not time consuming.
+
+* Should be cost-effective.
+
+> Take a couple minutes to discuss with your table how you could do this.
 
  
-### Not sure?
-It's alright to be unsure how to do this. Taking samples is not an easy task!
+### Let's decide
 
-## Topic 2
-
-### Exercise with Hint
-
-*Here's an exercise where the chunk is pre-evaulated via the `exercise.eval` option (so the user can see the default output we'd like them to customize). We also add a "hint" to the correct solution via the chunk immediate below labeled `print-limit-hint`.*
-
-Modify the following code to limit the number of rows printed to 5:
-
-```{r print-limit, exercise=TRUE, exercise.eval=TRUE}
-mtcars
-```
-
-```{r print-limit-hint}
-head(mtcars)
-```
-
-### Quiz
-
-*You can include any number of single or multiple choice questions as a quiz. Use the `question` function to define a question and the `quiz` function for grouping multiple questions together.*
-
-Some questions to verify that you understand the purposes of various base and recommended R packages:
-
-```{r quiz}
+```{r survey1, echo = FALSE}
 quiz(
-  question("Which package contains functions for installing other R packages?",
-    answer("base"),
-    answer("tools"),
-    answer("utils", correct = TRUE),
-    answer("codetools")
-  ),
-  question("Which of the R packages listed below are used to create plots?",
-    answer("lattice", correct = TRUE),
-    answer("tools"),
-    answer("stats"),
-    answer("grid", correct = TRUE)
-  )
+  question("Which option do you think would be a combination of simple and accurate for determining how much water is on the globe?",
+    answer("Measure every inch of the globe and determine exactly how much of it is covered with water.", message = "Not quite, which of the guidelines is violated?"),
+    answer("Just eyeball it and say a number.", message = "Do you think this would be very accurate from person to person?"),
+    answer("The Earth is flat!!", message = "There's not enough time in class to cover [EVERYTHING](https://medium.com/s/world-wide-wtf/how-the-internet-made-us-believe-in-a-flat-earth-2e42c3206223)"),
+    answer("Toss the globe from person to person and determine whether their index finger is touching water or land.", correct = TRUE, message = "Sounds like a good plan to me."),
+    allow_retry = TRUE, random_answer_order = TRUE
+    )
 )
 ```
+
+
+## Arranging Data
+
+### Sampling
+
+What we decided to do is take a sample of random spots on the globe. Every time someone catches the globe and records `Land` or `Water`, we collected one **observational unit**. The collection of all the observational units is our data.
+
+Data are best arranged in an orderly fashion, typically a table (sometimes called *rectangular data*). 
+
+### At your table
+
+> Discuss how you would arrange our data in a table.
+
+
+## Collect the data
+
+### Directions
+
+When you catch the globe, please say the following:
+
+* Your name
+
+* Your Major/Area of interest
+
+* One hobby or activity you enjoy outside of school
+
+* Whether your right index finger is touching `Land` or `Water`
+
+* Is there anything else we want to record?
+
+I will enter the data on this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1KemRug6b2t_t9ioLefbUtbKpppbEJm3eM6e4u35rkXo/edit?usp=sharing)
+
+
+
+## Answer the question
+
+### What proportion of the Earth is covered with water?
+
+How many students in our sample touched `Water`?
+
+How many total students did we record in our sample?
+
+What proportion of students in our sample touched `Water`?
+
+
+### The most important question
+
+How *confident* are you that this proportion is accurate? In other words, did we get close to the ACTUAL proportion of water covering the Earth?
+
+```{r confidence, echo = FALSE}
+quiz(
+  question("Do you think our value is close to the true proportion of water covering earth?",
+    answer("Yes", correct = TRUE, message = "What makes you confident?"),
+    answer("No", correct = TRUE, message = "Why not?"),
+    allow_retry = TRUE
+  ), caption = "There is no true 'Correct' response here."
+)
+```
+
+
+### Suprised?
+
+[Here](https://phys.org/news/2014-12-percent-earth.html) is the actual proportion of the Earth's surface that is covered by water.
+
+> Did we get it exactly right? Were we close? Are you surprised?
+
+### Pitfalls
+
+What might be some problems with how we collected our sample and answered our question?
+
+## Moving forward
+
+This activity touches on a lot of the concepts that we will cover throughout the semester. Over the course of 15 weeks, when we are deep in the textbook, remember to keep the big picture in mind. A lot of what we do can be fairly intuitive when you step back a little.
+
+### Uncertainty
+
+Statistics deals with uncertainty at its core. Don't let that uncertainty creep into your confidence for learning how to read, understand, and convey data.
+
+### Course map
+In order to keep us oriented throughout the semester, I will update this course map as we move along. It's goofy and childish, but will provide a concrete starting point for us every day and remind us where we've been and where we're going.
+
+![Can anyon identify the woman in the picture?](images/Stat110map_W1.png)
+
 
