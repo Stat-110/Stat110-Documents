@@ -1,7 +1,8 @@
 ---
-title: "Class Lesson Template"
+title: "Day 1 Lesson Plan"
+subtitle: "Stat 110"
 author: "Joe Roith"
-date: "Aug 31 2019"
+date: "Sept 5 2019"
 output:
   pdf_document: default
   html_document: default
