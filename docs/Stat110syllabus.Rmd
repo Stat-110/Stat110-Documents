@@ -77,13 +77,13 @@ This course and this textbook are centered on the idea that you will better unde
 
 * Attend labs, develop skills using SPSS, and transfer those skills to data beyond homework and test situations.
 
-* Expect small amounts of daily homework, decent-sized weekly homework sets, and longer projects which allow you to pull your knowledge together.
+* Expect weekly homework sets, occasional table quizzes, and longer projects which allow you to pull your knowledge together.
 
 
 ## Grades
 Your course grade will be determined as follows:
 
-Grade Subgroup        |  Weight
+Category        |  Weight
 --------------------- | ---------
 Homework Assignments |		10%
 Lab Assignments and Participation | 10%
@@ -142,7 +142,7 @@ Come see me at my drop-in office hours, or make an appointment, or see if my doo
 * Visit the [Academic Support Center](https://wp.stolaf.edu/academic-support/) if you want to improve your general study skills and habits.
 
 ## Supplemental Instruction
-This section of Stat 212 is supported by Supplemental Instruction (SI). SI is a series of weekly review sessions for students lead by the SI Leader Leon Zhou. SI is provided for all students in the course who want to acquire effective learning strategies, develop a stronger understanding of course material, and improve their grades. In most cases, regular SI attendance results in at least one letter grade higher than if a student never attended. SI is a structured and collaborative learning environment where students can further engage with course material and enhance their learning. SI sessions will start the first week of class and end the last day of classes. Faculty support and SI are the primary resources for students enrolled in this class.
+This section of Stat 110 is supported by Supplemental Instruction (SI). SI is a series of weekly review sessions for students lead by the SI Leader Leon Zhou. SI is provided for all students in the course who want to acquire effective learning strategies, develop a stronger understanding of course material, and improve their grades. In most cases, regular SI attendance results in at least one letter grade higher than if a student never attended. SI is a structured and collaborative learning environment where students can further engage with course material and enhance their learning. SI sessions will start the first week of class and end the last day of classes. Faculty support and SI are the primary resources for students enrolled in this class.
 
 ### Leon’s SI sessions
 
