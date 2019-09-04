@@ -1,6 +1,6 @@
 ---
 title: 'STAT 110: Principles of Statistics'
-date: "Fall 2019"
+subtitle: "Fall 2019"
 output:
   html_document:
     theme: cosmo
