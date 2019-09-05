@@ -192,18 +192,18 @@ St. Olaf's Academic Integrity Policy, including the Honor System, is an integral
 | Week 3 | Sampling and Studies | 4, 5 & 6 |
 | Week 4 | Summarizing and visualizing data, Normal distribution | 7, 8 & 9 |
 | Week 5 | More visualizing and review | 9 |
-|  | **Exam #1 (Tuesday, October 1)** | |
+|  | **Exam #1 (Tuesday, October 8)** | |
 | Week 6 | Categorical Relationships | 12 |
-| Week 7 | $2 \times 2$ tables | 12 & 13|
 | | **FALL BREAK (October 12 - 15)** |
+| Week 7 | $2 \times 2$ tables | 12 & 13|
 | Week 8 | Relationships and Correlation | 10 & 11 |
 | Week 9 | Probability and Review| 14 |
 | | **Exam #2 (Tuesday, November 5)** | |
 | Week 10 | Samples and confidence intervals | 19, 20 & 21 |
 | Week 11 | Samples and confidence intervals (cont.) | |
 | Week 12 | Hypothesis testing | 22 & 23 |
-| Week 13 | Hypothesis testing (cont.) | |
 | | **Thanksgiving Break (November 27 - 29)** | |
+| Week 13 | Hypothesis testing (cont.) | |
 | Week 14 | "Statistical Significance" and open topics | 24 |
 | Week 15 | Wrap up and Review | |
 | | **Final Exam: Monday, Dec 16, 2:00-4:00 PM** |
