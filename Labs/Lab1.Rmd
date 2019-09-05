@@ -8,6 +8,11 @@ output:
 subtitle: Stat 110 Fall 2019
 ---
 
+```{r setup, include=FALSE}
+library(knitr)
+```
+
+
 In the past several years, a topic that caught people's attention was the revelation (or reminder) that your favorite websites are probably running experiments on you, then collecting and analyzing the resulting data. Much of the experimentation is simply to provide you with a "better experience": more useful returns on your Google search, better placement of ads on Facebook, etc. But a couple of recent experiments by websites have raised concerns in some quarters.[^1]
 
 [^1]: [https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html](https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html)
@@ -34,6 +39,12 @@ In one experiment, OKCupid wanted to know if those with a 90% match percentage s
 
 #### Odds of a single message turning into a conversation
 
+```{r table data, include=FALSE}
+table <- c("10%", "16%", "17%", "13%", "13%", "16%", "16%", "17%", "20%")
+
+table2 <- scan()
+
+```
 
 
 * How do you think OKCupid measured if a match was successful? Can you think of other ways to measure success of an online dating match?

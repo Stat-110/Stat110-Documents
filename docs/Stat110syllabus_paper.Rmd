@@ -2,13 +2,13 @@
 title: 'STAT 110: Principles of Statistics'
 date: "Fall 2019"
 output:
+  pdf_document:
+    toc: no
   html_document:
     theme: cosmo
     toc: yes
     toc_depth: 2
     toc_float: yes
-  pdf_document:
-    toc: no
 subtitle: Course Syllabus
 ---
 
@@ -31,16 +31,16 @@ You may also schedule an appointment with me (check my [calendar](https://calend
 
 **Class meetings:**	T 11:45 - 1:10, Th 12:45 - 2:05 in RNS 210
 
-  * Lab Section A: F 8:00 - 8:55 AM in RML 115
+  * Lab Section A: F 8:00 - 8:55 in RML 115
     
-  * Lab Section B: F 9:05 - 10:00 AM in RML 115
+  * Lab Section B: F 9:05 - 10:00 in RML 115
     
-  * Lab Section C: F 10:45 - 11:40 AM in RML 115
+  * Lab Section A: F 10:45 - 11:40 in RML 115
 
 **Textbook:** *Seeing Through Statistics (4th edition)*,
 Jessica M. Utts
 
-![](images/sts4.jpg)
+<!-- ![](images/sts4.jpg) -->
 
 **Companion website:**	[www.cengage.com/UttsSTS4e](https://www.cengage.com/UttsSTS4e)
 
@@ -209,4 +209,4 @@ St. Olaf's Academic Integrity Policy, including the Honor System, is an integral
 | | **Final Exam: Monday, Dec 16, 2:00-4:00 PM** |
 
 
-![ [https://xkcd.com/552/](https://xkcd.com/552/) ](images/correlation.png)
+<!-- ![ [https://xkcd.com/552/](https://xkcd.com/552/) ](images/correlation.png) -->
