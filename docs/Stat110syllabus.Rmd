@@ -197,10 +197,10 @@ St. Olaf's Academic Integrity Policy, including the Honor System, is an integral
 | | **FALL BREAK (October 12 - 15)** |
 | Week 7 | $2 \times 2$ tables | 12 & 13|
 | Week 8 | Relationships and Correlation | 10 & 11 |
-| Week 9 | Probability and Review| 14 |
-| | **Exam #2 (Tuesday, November 5)** | |
-| Week 10 | Samples and confidence intervals | 19, 20 & 21 |
-| Week 11 | Samples and confidence intervals (cont.) | |
+| Week 9 | Probability and Samples| 14 & 19 |
+| Week 10 | Samples and Review | 19 |
+| | **Exam #2 (Tuesday, November 12)** | |
+| Week 11 | Confidence intervals | 20 & 21 |
 | Week 12 | Hypothesis testing | 22 & 23 |
 | | **Thanksgiving Break (November 27 - 29)** | |
 | Week 13 | Hypothesis testing (cont.) | |
