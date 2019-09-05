@@ -77,7 +77,7 @@ Data are best arranged in an orderly fashion, typically a table (sometimes calle
 > Discuss how you would arrange our data in a table.
 
 
-## Collect the data
+## Let's try it
 
 ### Directions
 
@@ -115,10 +115,10 @@ How *confident* are you that this proportion is accurate? In other words, did we
 ```{r confidence, echo = FALSE}
 quiz(
   question("Do you think our value is close to the true proportion of water covering earth?",
-    answer("Yes", correct = TRUE, message = "What makes you confident?"),
-    answer("No", correct = TRUE, message = "Why not?"),
+    answer("Yes", message = "What makes you confident?"),
+    answer("No", message = "Why not?"),
     allow_retry = TRUE
-  ), caption = "There is no true 'Correct' response here."
+  ), caption = "Ignore the 'Incorrect' part of the message, there is no wrong answer."
 )
 ```
 
