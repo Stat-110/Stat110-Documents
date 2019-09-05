@@ -1,0 +1,50 @@
+---
+title: 'Lab #1: Facebook, OKCupid, & Statistics'
+author: "Joe Roith"
+date: "09-06-2019"
+output:
+  html_document: default
+  pdf_document: default
+subtitle: Stat 110 Fall 2019
+---
+
+In the past several years, a topic that caught people's attention was the revelation (or reminder) that your favorite websites are probably running experiments on you, then collecting and analyzing the resulting data. Much of the experimentation is simply to provide you with a "better experience": more useful returns on your Google search, better placement of ads on Facebook, etc. But a couple of recent experiments by websites have raised concerns in some quarters.[^1]
+
+[^1]: [https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html](https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html)
+
+### Facebook
+
+In addition to experimenting with ad placement and photo sizes, *Facebook admitted it changed the number of positive and negative newsfeed posts to see how emotions spread on social media*. For instance, do people who read more negative newsfeed posts tend to be more negative themselves in their Facebook posts to friends?
+
+* First, why would Facebook randomly change the placement of ads to people? What is Facebook hoping to find by randomly placing ads?
+
+* Why the need for random placement? Couldn't Facebook try one placement for a few days, then try a different placement for a few more days, etc?
+
+* Then, is randomly changing th number of positive and negative newsfeed posts any different from randomly changing the placements of ads? Why or why not?
+
+* Facebook claimed that users agreed to these types of experiments by clicking `Agree` to the Terms and Services when they signed up for Facebook. What do you think about this claim?
+
+### OKCupid
+
+After Facebook's revelation, OKCupid, a popular dating website, drew fire in some circles for experiments they have run on their users (detailed in a blog entitled "We Experiment on Human Beings!"[^2]). First, it's important to understand how OKCupid attempts to produce matches. Every user answers questions of their choosing - everything from "Is God important in your life?" to "Does smoking disgust you?" But then you also state how you'd like someone else to answer that quesiton and how important that question is to you. Their algorithm then calculates a match percentage based on how well someone else's answers match what you want and how well you answer questions as they'd want (all weighted by importance). You can then scan those with high match percentages and send messages to those who seem interesting.
+
+[^2]: [https://perma.cc/6UV7-5686](https://perma.cc/6UV7-5686)
+
+In one experiment, OKCupid wanted to know if those with a 90% match percentage seemed to hit it off because the algorithm did a good job of identifying suitable matches, or possible because of the power of suggestion (i.e. "the algorithm says we're a good match, so we must be"). So OKCupid tried randomly assigned match percentages. For example, some 90% matches were told they were bad matches (30%) while some bad matches by the algorithm (30%) were told they were great matches (90%). It turns out the power of suggestion was about equally powerful to high algorithm scores in terms of success in dating (although getting a good score + being told the correct score was even more powerful).
+
+#### Odds of a single message turning into a conversation
+
+
+
+* How do you think OKCupid measured if a match was successful? Can you think of other ways to measure success of an online dating match?
+
+* OKCupid said this experiment was necessary to prove their algorithm wasn't useless. Does thi experiment test if the algorithm is useful? Are there other ways the strength of the algorithm could be tested?
+
+* OKCupid chose to wait to tell users they had been given wrong match percentages until after they contacted potential dates because people tend to act differently when they know they are being studied. What do you think about this?
+
+* Do you feel OKCupid's actions were "a necessary part of the scientific process" or "a betrayal of trust" of their users or "unethical experimentation" on humans?
+
+
+
+
+
