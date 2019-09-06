@@ -1,0 +1,115 @@
+---
+title: "Globe Toss Activity"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+
+## Question:
+
+### How much of the Earth's surface is covered with water?
+
+You might already have an answer to this question, or at least an approximate guess. But how could we answer it using only an inflatable globe? No phone. No Google. No other resources. 
+
+ * Is it alright to guess your answer?  
+ 
+ * What if the question had more serious implications?
+
+<!-- ![Courtsey: Google Earth](images/earth.jpg) -->
+
+### This course
+
+In statistics, we try to answer all types of questions with limited resources. We can't expect an accurate answer by Googling `Which genes increase the risk of skin cancer?` We use **data** from a **sample** to try and answer questions about a **population**.
+
+### Your turn 
+
+> What are some questions you would like to answer using data? What is the population? What might you use as a sample?
+
+## Collecting Data
+
+### Rewind
+Back to the original question, how might we determine the percentage (or **proportion**) of Earth's surface that is covered by water using the globe? Here are a couple guidelines to keep in mind about possible methods.
+
+* Should produce accurate results.
+
+* Should be easy to complete.
+
+* Not time consuming.
+
+* Should be cost-effective.
+
+ 
+
+## Arranging Data
+
+### Sampling
+
+What we decided to do is take a sample of random spots on the globe. Every time someone catches the globe and records `Land` or `Water`, we collected one **observational unit**. The collection of all the observational units is our data.
+
+Data are best arranged in an orderly fashion, typically a table (sometimes called *rectangular data*). 
+
+
+
+## Let's try it
+
+### Directions
+
+When you catch the globe, please say the following:
+
+* Your name
+
+* Your Major/Area of interest
+
+* One hobby or activity you enjoy outside of school
+
+* Whether your right index finger is touching `Land` or `Water`
+
+* Is there anything else we want to record?
+
+I will enter the data on this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1KemRug6b2t_t9ioLefbUtbKpppbEJm3eM6e4u35rkXo/edit?usp=sharing)
+
+
+
+## Answer the question
+
+### What proportion of the Earth is covered with water?
+
+How many students in our sample touched `Water`?
+
+How many total students did we record in our sample?
+
+What proportion of students in our sample touched `Water`?
+
+
+### The most important question
+
+How *confident* are you that this proportion is accurate? In other words, did we get close to the ACTUAL proportion of water covering the Earth?
+
+
+
+### Suprised?
+
+[Here](https://phys.org/news/2014-12-percent-earth.html) is the actual proportion of the Earth's surface that is covered by water.
+
+> Did we get it exactly right? Were we close? Are you surprised?
+
+### Pitfalls
+
+What might be some problems with how we collected our sample and answered our question?
+
+## Moving forward
+
+This activity touches on a lot of the concepts that we will cover throughout the semester. Over the course of 15 weeks, when we are deep in the textbook, remember to keep the big picture in mind. A lot of what we do can be fairly intuitive when you step back a little.
+
+### Uncertainty
+
+Statistics deals with uncertainty at its core. Don't let that uncertainty creep into your confidence for learning how to read, understand, and convey data.
+
+### Course map
+In order to keep us oriented throughout the semester, I will update this course map as we move along. It's goofy and childish, but will provide a concrete starting point for us every day and remind us where we've been and where we're going.
+
+<!-- ![Can anyon identify the woman in the picture?](images/Stat110map_W1.png) -->
+
+
