@@ -1,0 +1,69 @@
+---
+title: 'Table Quiz #1 (5 pts)'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+## First & Last Names:
+
+
+1. Which of these **do not** apply to the word `statistics`?
+
+    a. Statistics are numbers measured for some purpose.
+
+    b. Statistics is a collection of procedures for collecting amd analyzing data.
+
+    c. Statistics is a tool to help you make decisions when faced with uncertainty.
+
+    d. All of the above statements apply to the word `statistics`.
+
+
+&nbsp;
+
+2. A recent sample of 1,000 American adults found that 39% support Joe Biden to be the Democratic Presidential nominee. Which of the following describes the population for this example?
+
+    a. The 1,000 American adults who participated in the study.
+    
+    b. All American adults who support Joe Biden.
+    
+    c. The 29% of American adults in the sample who support Joe Biden.
+    
+    d. All American adults.
+    
+    
+&nbsp;
+
+3. Suppose you are conducting an experiment that involves assigning each of 100 participants to one of two treatments: Treatment A or Treatment B. Which of the following would **not** be considered to be a random assignment of participants to treatments?
+
+    a. For each participant, flip a coin. If the coin lands heads up, assign them to group A. If the coin lands tails up, assign them to Group B.
+    
+    b. Put all 100 names in a hat and mix them up thoroughly. Draw 50 names from the hat and assign them to Group A. Everyone else is assigned to Group B.
+    
+    c. As the paticipants show up for the study, assign the first 50 of them to Group A, and the last 50 to Group B.
+    
+&nbsp;
+
+4. Suppose you want to conduct a survey to determine who is most likely to win the next presidential election. Which of the following would be considered to be a representative (unbiased) sample?
+
+    a. 1,000 likely voters who called in to a local radio talk show.
+    
+    b. 1,000 likely voters who returned surveys sent to everyone on a Democrat or Republican newsletter mailing list.
+    
+    c. 1,000 likely voters who replied to an Internet website survey.
+    
+    d. None of these samples are representative.
+    
+
+&nbsp;
+
+5. Suppose a group of students who reported smoking marijuana was found to have significantly lower test scores than a group of students who reported they don't smoke marijuana. We can conclude that smoking marijuana leads to lower test scores.
+
+    a. True
+    
+    b. False
+
+
+
+

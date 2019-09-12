@@ -1,0 +1,37 @@
+---
+title: "Class Lesson Template"
+author: "Joe Roith"
+date: "Sept 9 2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+### Time/Location
+
+Tuesdays: 11:45 - 1:10 PM (85 min)
+
+RNS 210
+
+### Breakdown
+
+| Part | Topic | Description | Duration |
+| ---- | ---------------- | ------------------------------- | ---------- |
+| 0.1 | **Orientation** | No change in location | 0 min |
+| 0.2 | **QOD**| What was the last explosive headline you read claiming a scientific breakthrough? | 0 min |
+| 0.3 | **Mindfulness** | Introduce class and have everyone take a minute of silence to think about the question. | 0 min |
+| | | **Begin Class** |
+| 1 | **Discussion** | Mini-project #2 QOD | 15 min |
+| 2 | **Lecture** | Ch 1 and 2 slides - 1. Get representative sample. 2. Get large enough sample. 3. Decide observational or experimental. | 40 min |
+| 3 | **Active Learning** | Revisit Mini-projects or Round-up and cancer | 20 min |
+| 4 | **Open** | Questions | 5 min|
+| 5 | **Wrap-up**| Write down to yourself: What is one thing you learned today? | 0 min |
+| | | **See you next time!** |
+
+
+
+
+
+
+

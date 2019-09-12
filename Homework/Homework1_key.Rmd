@@ -1,0 +1,67 @@
+---
+title: 'Homework #1 Key and Rubric'
+author: "Joe Roith"
+subtitle: "Stat 110 - Fall 2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## For grading
+
+I'd like you to grade the first assignment more loosely since it is mainly subjective and opinion based. The students do not need to match the answer key exactly, but they must show some thought when answering the questions. Use your judgement on whether you think they spent enough time considering the question. You do not need to grade or correct grammatical mistakes, but responses should be legible and coherent. 
+
+For this assignment, each question from the book is worth 2 points and the Lab response is also worth two points for a total of **10 pts**. Use the following grading rubric on each question and lab response:
+
+* **2 pts**: Student has displayed thought and creativity in their answer. Their response is concise, and on topic. They may not match the key, or even seem correct, but they have justified their position with reasonable logic.
+
+* **1 pt**: Student has clearly given very little thought to their response. They show no understanding of the concepts covered in the class/lab/book. Their response is rambling, off topic, or covers both sides of an argument (trying to "write their way to the correct response").
+
+* **0 pts**: Student has not answered the question or reacted to the lab discussions
+
+> Feel free to use 0.5 point incriments or penalties on questions. For example, if you feel that a student has a correct response but is not providing a short, concise statement, you may grade them 1.5/2 for that problem. 
+
+
+
+### Chapter 1 Question 4 
+
+**Explain what problems may arise in trying to make conclusions based on a survey mailed to the subscribers of a specialty magazine. Find or construct an example.**
+
+Individuals who subscribe to a specialty magazine are not representative of the general population, and we will reach an incorrect conclusion if we treat them as representative. As one small example, individuals who subscribe to home and garden magazines are more likely to own homes, be married and be older than the general population. Beliefs of these individuals will skew more towards the options of older home-owners. We can think of similar ideas with automotive, environmental, etc magazines, and we discussed the *Literary Digest* case in class.
+
+
+### Chapter 1 Question 8 
+
+**A psychology department is interested in comparing two methods for teaching introductory psychology. Four hundred students plan to enroll for the course at 10:00 AM and another 200 plan to enroll for the course at 4:00 PM. The registrar will allow the department to teach multiple sections at each time slot and to assign students to any one of the sections taught at the student's desired time. Design a study to compare the two teaching methods. For example, would it be a good idea to use one method on all of the 10:00 sections and the other method on all of the 4:00 sections? Explain.**
+
+Both teaching methods should be taught at 10:00 AM and at 4:00 PM. Otherwise, factors related with the time, like how tired the students and instructor are or who takes morning versus afternoon classes, could not be separated from effects of the different teaching methods. Students can be randomly assigned to either of the two teaching methods (200 of the 400 at 10:00 AM and 100 of the 200 at 4:00 PM.) There could still be some factors related to time of day that impact results but they would be accounted for by the design.
+
+### Chapter 1 Question 10
+
+**Universities are sometimes ranked for prestige according to the amount of research funding their faculty members are able to obtain from outside sources. Explain why it would not be fair to simply use total dollar amounts for each university, and describe what should be used instead.**
+
+Total dollar amount is unfair due to the great variability in university sizes. Larger universities will have larger research funds since they have a larger faculty and more opportunities to generate funds. Smaller universities may have much lower total dollar amounts, but still contribute high quality research and produce excellent students. An alternative to using total amount for measuring prestige is the average dollar amount per faculty. Another might be average number of publications among the faculty.
+
+### Chapter 1 Question 14 
+
+**Give an example of a decision in your life, such as which route to take to school, for which you think statistics would be useful in making the decision. Explain how you could collect and process information to help you make the decision.**
+
+What movie to watch (examine movie ratings, recommendations from netflix, scores on Yelp from other customers, etc), how to choose between two treatments for a disease (examine clinical trials, rates of survival for various diseases, historical probabilities of success), etc. Lots of possible answers!
+
+
+### Lab Reactions
+
+**In a concise paragraph, summarize a few of the points you found interesting in our lab discussion today. Additionally, comment on the following two questions:**
+
+* **Are you concerned at all about the data that companies collect and how those data are used?** 
+
+* **What ethical responsibility (if any) do you think we have as statisticians? What about the consumers of statistical information?**
+
+I don't have *correct* answers for the lab reactions. Just make sure the responses are on topic with the lab discussions (I realize not all of you attended lab, so do your best to grade from context). 
+
+
+
+
+
+
+
