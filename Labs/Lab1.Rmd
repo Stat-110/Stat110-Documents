@@ -1,11 +1,11 @@
 ---
-title: 'Lab #1: Facebook, OkCupid, & Statistics'
+title: 'Stat 110 Lab #2'
+subtitle: "Introduction to SPSS"
 author: "Joe Roith"
-date: "09-06-2019"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
 output:
   pdf_document: default
   html_document: default
-subtitle: Stat 110 Fall 2019
 ---
 
 ```{r setup, include=FALSE}
@@ -13,61 +13,51 @@ library(knitr)
 library("kableExtra")
 ```
 
+Today we are going to explore data collected from 173 college students at UC Davis in two different statistics classes. One class was for students not in the liberal arts (n=148), while the other class was for students in the liberal arts (n=25). The data were collected in the Spring quarter of 2000. (Source: Utts and Heckard). We will be using graphical and numerical summaries in the software package PASW Statistics (formerly and commonly called SPSS). The instructions should work for either Windows or Mac with minor modification. Let me know if you see anythig confusing or get stuck at any point.
 
-In the past several years, a topic that caught people's attention was the revelation (or reminder) that your favorite websites are probably running experiments on you, then collecting and analyzing the resulting data. Much of the experimentation is simply to provide you with a "better experience": more useful returns on your Google search, better placement of ads on Facebook, etc. But a couple of recent experiments by websites have raised concerns in some quarters.[^1]
+| Name | Description |
+| ---- | ----------- |
+| Sex | Male or Female |
+| TV | hours spent watching tv each week |
+| computer | hours spent on a computer each week |
+| Sleep | hours of sleep previous night |
+| Seat | typical classroom seat (front, middle, back) |
+| alcohol | number of alcoholic beverages consumed each week |
+| Height | self-reported height (inches) |
+| momheight | mother's height (inches) |
+| dadheight | father's height (inches) |
+| excercise | hours spent exercising each week |
+| GPA | student GPA |
+| class | liberal arts or not liberal arts |
 
-[^1]: [https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html](https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html)
 
-### Facebook
+## Reading in the Data
 
-In addition to experimenting with ad placement and photo sizes, *Facebook admitted it changed the number of positive and negative newsfeed posts to see how emotions spread on social media*. For instance, do people who read more negative newsfeed posts tend to be more negative themselves in their Facebook posts to friends?
+First some preliminaries. we will read in the data, look it over, and make sure it is usable by SPSS.
 
-* First, why would Facebook randomly change the placement of ads to people? What is Facebook hoping to find by randomly placing ads?
+1. Download the data from Moodle. Pay careful attention to where the file is saved!
 
-* Why the need for random placement? Couldn't Facebook try one placement for a few days, then try a different placement for a few more days, etc?
+2. Open SPSS Statistics. If you cancel the initial dialog box, you will see the Data Editor. This should look like an (empty) excel spreadsheet.
 
-* Then, is randomly changing the number of positive and negative newsfeed posts any different from randomly changing the placements of ads? Why or why not?
+3. Bring in our data using `File` > `Open` > `Data` > `UCDavis.xlsx` (after changing `File Type` to `.xlsx`). Click OK to the dialog box so that SPSS uses its default choices for importing Excel data. Note that the spreadsheet has a Data View (where you can see the raw data), and a Variable View (where you can see properties of each variable in the data set).
 
-* Facebook claimed that users agreed to these types of experiments by clicking `Agree` to the Terms and Services when they signed up for Facebook. What do you think about this claim?
+4. In Variable View, we must make sure to define the Measure of each variable. `Scale` for a measurement/quantitative variable, `Nominal` for a categorical variable, and `Ordinal` if the categories have a natural order to them. For this data, the measures of all the variables are already correct.
 
-### OkCupid[^2]
+5. After claning and defining your data, it can be saved as an SPSS data set for future use. Go to `File` > `Save As` and type in a filename (which will be given a `.sav` extension).
 
-After Facebook's revelation, OkCupid, a popular dating website, drew fire in some circles for experiments they have run on their users (detailed in a blog entitled "We Experiment on Human Beings!"[^3]). First, it's important to understand how OkCupid attempts to produce matches. Every user answers questions of their choosing - everything from "Is God important in your life?" to "Does smoking disgust you?" But then you also state how you'd like someone else to answer that question and how important that question is to you. Their algorithm then calculates a match percentage based on how well someone else's answers match what you want and how well you answer questions as they'd want (all weighted by importance). You can then scan those with high match percentages and send messages to those who seem interesting.
-
-[^2]: [https://theblog.okcupid.com/tagged/data](https://theblog.okcupid.com/tagged/data)
-[^3]: [https://perma.cc/6UV7-5686](https://perma.cc/6UV7-5686)
-
-In one experiment, OkCupid wanted to know if those with a 90% match percentage seemed to hit it off because the algorithm did a good job of identifying suitable matches, or possible because of the power of suggestion (i.e. "the algorithm says we're a good match, so we must be"). So OkCupid tried randomly assigned match percentages. For example, some 90% matches were told they were bad matches (30%) while some bad matches by the algorithm (30%) were told they were great matches (90%). It turns out the power of suggestion was about equally powerful to high algorithm scores in terms of success in dating (although getting a good score + being told the correct score was even more powerful).
+Now it's time to examine this data! In statistics, we always begin by visualizing our data using appropriate and insightful graphs. The best graph for a situation depends on the number of variables being examined (1 or 2 for now) and the type of variables (measurement/quantitative or categorical).
 
 \newpage
 
-#### Odds of a single message turning into a conversation
-
-|                      |           | | | **Displayed Compatibility**                      |
-|----------------------|-----------|:-----------------------:|-----------|-----------|
-|                      |           | 30% Match               | 60% Match | 90% Match |
-|                      | 30% Match | 10%                     | 16%       | 17%       |
-| **Actual Compatibility** | 60% Match | 13%                     | 13%       | 16%       |
-|                      | 90% Match | 16%                     | 17%       | 20%       |
+> **For each situation below, begin by choosing `Chart Builder` under `Graphs`.**
 
 
 
-* How do you think OkCupid measured if a match was successful? Can you think of other ways to measure success of an online dating match?
 
-* OkCupid said this experiment was necessary to prove their algorithm wasn't useless. Does this experiment test if the algorithm is useful? Are there other ways the strength of the algorithm could be tested?
 
-* OkCupid chose to wait to tell users they had been given wrong match percentages until after they contacted potential dates because people tend to act differently when they know they are being studied. What do you think about this?
 
-* Do you feel OkCupid's actions were "a necessary part of the scientific process" or "a betrayal of trust" of their users or "unethical experimentation" on humans?
 
-> OkCupid actually has publically available data from some of their users. Feel free to poke around[^4]
 
-[^4]: [https://github.com/rudeboybert/JSE_OkCupid](https://github.com/rudeboybert/JSE_OkCupid)
 
-### Not recent enough?
 
-Google and Youtube were fined $170 million on Wednesday for identifying childrens' videos, tracking user data, and targeting those children for advertizement purposes[^5]. They were fined for violating the privacy of children, but critics say it's not enough to deter the practice. There is a growing push for governments to recognize data rights as a human right[^6].
 
-[^5]: [https://www.nytimes.com/2019/09/04/technology/google-youtube-fine-ftc.html](https://www.nytimes.com/2019/09/04/technology/google-youtube-fine-ftc.html)
-
-[^6]: [https://fpif.org/data-privacy-is-a-human-right-europe-is-moving-toward-recognizing-that/](https://fpif.org/data-privacy-is-a-human-right-europe-is-moving-toward-recognizing-that/)

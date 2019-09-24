@@ -1,0 +1,42 @@
+---
+title: "Lecture 5"
+author: "Joe Roith"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+### Time/Location
+
+Thursdays: 12:45 - 2:05 PM (80 min)
+
+RNS 210
+
+### Previous class
+
+Got through all of Ch 4, polls, surveys, sampling strategies. Some may still struggle with stratified vs cluster, but I feel like I should move on. Discussed the climate strike. **Those who attend can complete the climate assignment in liew of the lab assignment. But still should do the lab. Or they can actually strike and not do it.** They do have a reading assignment due in class.
+
+### Breakdown
+
+| Part | Topic | Description | Duration |
+| ---- | ---------------- | ------------------------------- | ---------- |
+| 0.1 | **Orientation** | No change | 0 min |
+| 0.2 | **QOD**| How should you evaluate a study? | 0 min |
+| 0.3 | **Mindfulness** | | 1 min |
+| 0.4 | **Housekeeping** | Clarification on Reading Assignment expectations and grading. Metacognition. | 1 min |
+| | | **Begin Class** |
+| 1 | **Discussion** | Coffee and longevity reading assignment | 15 min |
+| 2 | **Lecture** | Start Ch 5 & 6 slides | 5 min |
+| 3 | **Active Learning** | Warm-up exercise in slides | 10 min |
+| 4 | **Lecture** | Finish slides | 35 min|
+| 5 | **Quiz**| There are labs tomorrow, be sure you attend YOUR session | 15 min |
+| | | **See you next time!** |
+
+
+### Start Quiz at **1:45**
+
+
+
+

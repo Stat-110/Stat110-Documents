@@ -1,0 +1,34 @@
+---
+title: "Climate Change"
+date: "09-20-2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Part 1: The Role of Statistics in Climate Change Awareness
+
+There is little doubt that climate change affects all disciplines, each in its own way. One way statistics is used is to analyze vast amounts of data in support of research highlighting the changing planet. Many researchers and policy makers rely on this type of quantitative evidence to make decisions about mitigating the effects we have on our environment.
+
+Unfortunately, statistics has a darker role in the climate debate. With great power, comes great responsibility... Some of the fundamental concepts of statistics state that we should not make causal claims from observational data. But many times, we cannot implement the necessary experiments to justify such claims. We cannot perform large scale experiments on our planet to show the causal link between human activities and large scale climate change, we don't have a "Control Earth".
+
+So what can we do about it? As part of your climate strike, read the 1-page op-ed piece called *Playing Dumb on Climate Change* posted on Moodle. Then imagine you are having a conversation with a skeptic who states, "Couldn't this just be a natural cycle of the Earth? How do you know humans are contributing to the current climate changes?" Write a short response to these statements and try to justify the use of observational statistics to support causation in this case.
+
+## Part 2: Abundance of Data
+
+On Moodle you will find data from NOAA reaching back to 1880. The data records *temperature anomolies*, which NOAA defines as a departure from a reference value or long-term average. A positive anomaly indicates that the observed temperature was warmer than the reference value, while a negative anomaly indicates that the observed temperature was cooler than the reference value.[^1]
+
+[^1]: [https://www.ncdc.noaa.gov/monitoring-references/faq/anomalies.php](https://www.ncdc.noaa.gov/monitoring-references/faq/anomalies.php)
+
+Use this data to create a plot of your choosing (consider the types of variables in the data) that illustrates the effect humans have had on global surface temperatures over the last 140 years. Provide a brief statement on your graph.
+
+| Variable | Description |
+| -------------- | ------------------------------ |
+| Year | Year from 1880 to 2019 |
+| Month| Month (1 = Jan, 2 = Feb, etc.) |
+| Anomoly | Difference between monthly average and long-term (over thousands of years) average. In Celcius|
+
+
+
+
+

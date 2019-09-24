@@ -1,0 +1,73 @@
+---
+title: 'Table Quiz #2 (5 pts)'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+## First & Last Names:
+
+
+1. When you read the results of a scientific study, what should you do first?
+
+    a. Share the results on Facebook.
+
+    b. Carefully examine the results and see if they make sense.
+
+    c. Jump to the part where they collect data and see if it was collected properly.
+    
+    d. Determine if the study was an observational study or a randomized experiment.
+
+
+&nbsp;
+
+2. Random assignment deals with what aspect of an experiment?
+
+    a. To whom the results can be applied.
+    
+    b. Whether or not a cause and effect relationship exists.
+    
+    c. What research quesiton is being asked.
+    
+    d. What the statistical results are.
+    
+    
+&nbsp;
+
+3. Random sampling deals with what aspect of a study?
+
+    a. To whom the results can be applied.
+    
+    b. Whether or not a cause and effect relationship exists.
+    
+    c. What research quesiton is being asked.
+    
+    d. What the statistical results are.
+    
+&nbsp;
+
+> A 2001 study published in the American Journal of Epidemiology by reserchers at UIUC examined 753 men with prostate cancer and compared them to 703 men of the same age without cancer. They found that the prostate cancer risk increased with the number of lifetime female sexual partners. Dr. Karin Rosenblatt hypothesized an infectious agent as potential cause of prostate cancer. Identify each of the following as causal links, confounders, or neither.
+
+4. Testosterone: Higher testosterone is associated with higher numbers of sexual partners and also increased cancer risk.
+
+    a. Confounder
+    
+    b. Causal Link
+    
+    c. Neither
+
+&nbsp;
+
+
+5. Infectious Agent: A sexually transmitted infection causes prostate cancer and a higher number of sexual partners increases your risk of catching the infection
+
+    a. Confounder
+    
+    b. Causal Link
+    
+    c. Neither
+
+
+
+

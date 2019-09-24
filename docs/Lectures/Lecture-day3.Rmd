@@ -1,5 +1,5 @@
 ---
-title: "Stat - Lecture "
+title: "Lecture 3"
 author: "Joe Roith"
 date: "`r format(Sys.Date(), '%B %d, %Y')`"
 output:
@@ -10,7 +10,6 @@ output:
 
 ### Time/Location
 
-Tuesdays: 11:45 - 1:10 PM (85 min)
 Thursdays: 12:45 - 2:05 PM (80 min)
 
 RNS 210
@@ -37,7 +36,7 @@ Finished talking about the 7 components of statistical sleuthing articles. They 
 | | | **See you next time!** |
 
 
-## New/Announcements
+
 
 
 

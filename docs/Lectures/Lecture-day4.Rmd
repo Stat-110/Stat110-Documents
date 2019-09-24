@@ -1,0 +1,42 @@
+---
+title: "Lecture 4"
+author: "Joe Roith"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+### Time/Location
+
+Tuesday: 11:45 - 1:10 PM (85 min)
+
+RNS 210
+
+### Previous class
+
+Got through most of Ch. 3 slides. Went over variable types and graphs in lab on Friday. Quizzes will be graded soon
+
+
+### Breakdown
+
+| Part | Topic | Description | Duration |
+| ---- | ---------------- | ------------------------------- | ---------- |
+| 0.1 | **Orientation** |  | 0 min |
+| 0.2 | **QOD**| How is a poll conducted? | 0 min |
+| 0.3 | **Mindfulness** | | 1 min |
+| | | **Begin Class** |
+| 1 | **Special Announcement** | Climate strike on Friday - working on a way to let students make up lab | 10 min |
+| 2 | **Lecture** | Ch. 4 slides | 25 min |
+| 3 | **Active Learning** | exercise vs sedentary | 15 min |
+| 4 | **Lecture** | Back to Ch 4 slides| 25 min|
+| 5 | **Wrap-up**| Spend 5 min to write down two or three sentances about what you learned today - not to turn in. | 5 min |
+| | | **See you next time!** |
+
+
+
+
+
+
+

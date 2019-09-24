@@ -1,5 +1,5 @@
 ---
-title: 'Table Quiz #1 (5 pts)'
+title: 'Table Quiz #1 Key'
 output:
   pdf_document: default
   html_document: default
@@ -17,7 +17,7 @@ output:
 
     c. Statistics is a tool to help you make decisions when faced with uncertainty.
 
-  $\color{red}{\text{d. All of the above statements apply to the word statistics.}}$ 
+    **d. All of the above statements apply to the word statistics.**
 
 
 &nbsp;
@@ -30,7 +30,7 @@ output:
     
     c. The 29% of American adults in the sample who support Joe Biden.
     
-    d. All American adults.
+    **d. All American adults.**
     
     
 &nbsp;
@@ -41,7 +41,7 @@ output:
     
     b. Put all 100 names in a hat and mix them up thoroughly. Draw 50 names from the hat and assign them to Group A. Everyone else is assigned to Group B.
     
-    c. As the paticipants show up for the study, assign the first 50 of them to Group A, and the last 50 to Group B.
+    **c. As the paticipants show up for the study, assign the first 50 of them to Group A, and the last 50 to Group B.**
     
 &nbsp;
 
@@ -53,7 +53,7 @@ output:
     
     c. 1,000 likely voters who replied to an Internet website survey.
     
-    d. None of these samples are representative.
+    **d. None of these samples are representative.**
     
 
 &nbsp;
@@ -62,7 +62,7 @@ output:
 
     a. True
     
-    b. False
+    **b. False**
 
 
 

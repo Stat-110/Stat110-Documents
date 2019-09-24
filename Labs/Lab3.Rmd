@@ -1,0 +1,67 @@
+---
+title: 'Stat 110 Lab #3'
+subtitle: "Welcome to Weberville"
+author: "Joe Roith"
+date: "September 20, 2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library("kableExtra")
+```
+
+
+The city planning commission of Weberville (see [map on Moodle](https://moodle-2019-20.stolaf.edu/mod/resource/view.php?id=26424)) would like to set a budget for the cost of solar panels. They know from tax records the number of buildings in Weberville (100), but don't know how many solar panels they will need for each building. Because measuring each building is time intensive, they decide to estimate the number of panels needed for the whole town by choosing 10 buildings and finding the average number of panels needed per building.
+
+1. Individually, using the map provided on Moodle, pick ten representative buildings and record the number of squares in the table below.
+
+
+| Selection         |           1 |         2  |           3 |           4 |           5 |           6 |           7 |           8 |           9 |          10 |
+|-------------------|:----------------------:|:------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:--------------------:|:--------------------:|
+| Building Number   |             |            |             |             |             |             |             |             |             |             |
+| Number of squares |             |            |             |             |             |             |             |             |             |             |
+
+
+> What is the average number of squares (solar panels) for these ten buildings?
+
+&nbsp;
+
+2. Go to [www.random.org](www.random.org). Use the `True Random Number Generator` to select 10 numbers at random. Be sure to set `Min = 1` and `Max = 100`. Press `Generate` to get each number. Record these numbers as the "Building Number" below, then record the number of squares for each selected building.
+
+| Selection         |           1 |         2  |           3 |           4 |           5 |           6 |           7 |           8 |           9 |          10 |
+|-------------------|:----------------------:|:------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:--------------------:|:--------------------:|
+| Building Number   |             |            |             |             |             |             |             |             |             |             |
+| Number of squares |             |            |             |             |             |             |             |             |             |             |
+
+
+
+
+
+> What is the average number of squares (solar panels) for these ten buildings?
+
+&nbsp;
+
+3. Record both of these averages in the [Google spreadsheet here](https://docs.google.com/spreadsheets/d/1lHFY7Pk6So30pz7aNAQrQiVFujVlvflqcQm9pxETKEM/edit?usp=sharing).
+
+4. Which method gave you a higher average: Method 1 or Method 2?
+
+5. Which method gave others sitting near you (or in the Google spreadsheet) a higher average: Method 1 or Method 2?
+
+6. Give a potential explanation for your answers in (4) and (5).
+
+7. Use SPSS to produce a histogram of the number of squares (solar panels) on each building in Weberville. The data can be found in [weberville.sav](https://moodle-2019-20.stolaf.edu/mod/resource/view.php?id=26425&forceview=1) on Moodle. Save your histogram and describe important and interesting features.
+
+8. How do the averages you calculated using Method 1 and Method 2 compare to the true mean number of solar panels on homes in Weberville?
+
+> You can find the true mean in SPSS by importing the [weberville.sav](https://moodle-2019-20.stolaf.edu/mod/resource/view.php?id=26425&forceview=1) data, then in the toolbar Analyze > Descriptive Statistics > Descriptive, move the desired variable from the left box to the right box and click OK.
+
+9. Consider the histograms generated from all of the Method 1 and Method 2 means in the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1lHFY7Pk6So30pz7aNAQrQiVFujVlvflqcQm9pxETKEM/edit?usp=sharing) (you can copy and paste the data into new columns in SPSS). What do you see in these plots? What conclusions might you be able to draw?
+
+### Climate Strike
+
+If you attended the climate strike you should attempt all parts of the lab, but only need to submit your responses to the article and the plot of the temperature anomaly data for credit.
+
+

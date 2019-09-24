@@ -1,27 +1,11 @@
 ---
-title: 'Homework #1 Key and Rubric'
+title: 'Homework #1 Key'
 author: "Joe Roith"
 subtitle: "Stat 110 - Fall 2019"
 output:
   pdf_document: default
   html_document: default
 ---
-
-## For grading
-
-I'd like you to grade the first assignment more loosely since it is mainly subjective and opinion based. The students do not need to match the answer key exactly, but they must show some thought when answering the questions. Use your judgement on whether you think they spent enough time considering the question. You do not need to grade or correct grammatical mistakes, but responses should be legible and coherent. 
-
-For this assignment, each question from the book is worth 2 points and the Lab response is also worth two points for a total of **10 pts**. Use the following grading rubric on each question and lab response:
-
-* **2 pts**: Student has displayed thought and creativity in their answer. Their response is concise, and on topic. They may not match the key, or even seem correct, but they have justified their position with reasonable logic.
-
-* **1 pt**: Student has clearly given very little thought to their response. They show no understanding of the concepts covered in the class/lab/book. Their response is rambling, off topic, or covers both sides of an argument (trying to "write their way to the correct response").
-
-* **0 pts**: Student has not answered the question or reacted to the lab discussions
-
-> Feel free to use 0.5 point incriments or penalties on questions. For example, if you feel that a student has a correct response but is not providing a short, concise statement, you may grade them 1.5/2 for that problem. 
-
-
 
 ### Chapter 1 Question 4 
 
@@ -47,21 +31,6 @@ Total dollar amount is unfair due to the great variability in university sizes. 
 **Give an example of a decision in your life, such as which route to take to school, for which you think statistics would be useful in making the decision. Explain how you could collect and process information to help you make the decision.**
 
 What movie to watch (examine movie ratings, recommendations from netflix, scores on Yelp from other customers, etc), how to choose between two treatments for a disease (examine clinical trials, rates of survival for various diseases, historical probabilities of success), etc. Lots of possible answers!
-
-
-### Lab Reactions
-
-**In a concise paragraph, summarize a few of the points you found interesting in our lab discussion today. Additionally, comment on the following two questions:**
-
-* **Are you concerned at all about the data that companies collect and how those data are used?** 
-
-* **What ethical responsibility (if any) do you think we have as statisticians? What about the consumers of statistical information?**
-
-I don't have *correct* answers for the lab reactions. Just make sure the responses are on topic with the lab discussions (I realize not all of you attended lab, so do your best to grade from context). 
-
-
-
-
 
 
 

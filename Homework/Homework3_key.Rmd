@@ -1,0 +1,76 @@
+---
+title: 'Homework #3 Key'
+author: "Joe Roith"
+subtitle: "Stat 110 - Fall 2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+### Chapter 4 Question 8
+
+**Refer to Case Study 1.1, "Heart or Hypothalamus?" in which Lee Salk exposed newborn infants to the sound of a heartbeat or to silence, and then measured their weight gain at the end of 4 days.**
+
+**a) What is the sample of units for this study?**
+
+The sample units in Case Study 1.1 were babies in a nursery at a NYC hospital.
+
+**b) What two variables did Salk measure for each unit in the sample?**
+
+The two variables that Salk measured are: sound of a human heartbeat (or not) and the babies' weight gain or loss after 4 days.
+
+**c) To what population of units do you think the results apply?**
+The population units to which these results apply are newborn babies in this particular NYC hospital. Note that this was not a random sample!
+
+### Chapter 4 Question 14
+
+**A poll taken July 25 to August 5, 2012 asked a random sample of 3,130 adults: "Do you support or oppose putting a special tax on junk food - that is, things like soda, chips, and candy - and using the money for programs to fight obesity?" They reported that 53% of the respondents said "Support" and that the margin of error for the poll was +/- 2 percentage points**
+
+**a) Verify the reported margin of error.**
+
+$\frac{1}{\sqrt{3130}}=0.0179$ which is approximately 2 percentage points.
+
+**b) What is the numerical interval that is likely to cover the true percentage of the entire population that would have answered "Support" if asked at that time?**
+
+53% plus or minus 2 percentage points yields the numerical interval of 51% to 55% which should cover the true proportion for the population.
+
+**c) Refer to the seven pitfalls. Which one of them might have been a problem in this survey?**
+
+The question may contain "Unintentional Bias" by suggesting how the tax money on junk food would be spent.
+
+### Chapter 4 Question 27
+
+**Refer to Exercises 25 & 26. Which result, the one from the SFGate Poll or the one from the Field Poll, do you think was more likely to epresent the opinion of the populaiton of registered California voters at that time? Explain.**
+
+The poll from the California Field Poll will be much more likely to represent the opinion of the population of registered California voters. It is based on a random sample on registered voters and so is generalizable, whereas the SFGate Poll was not. The SFGate Poll is likely to be biased in favor of individuals already on the website who care about filling out the web poll. The online clicking poll is not really a poll at all. Many possible additional concerns/answers.
+
+
+### Chapter 5 Question 7
+
+**Suppose an observational study finds that people who use public transportation to get to work have better knowledge of current affairs than those who drive to work, but that the relationship is weaker for well-educated people. What term from this chapter applies to each of the following variables?**
+
+**a) Method of getting to work** - Explanatory variable
+
+**b) Knowledge of current affairs** - Response variable
+
+**c) Level of education** - Interacting variable (or effect modifier)
+
+**d) Whether the participant reads a daily newspaper** - Confounding variable because those taking public transportation may have used the time to read a daily newspaper that might have caused the observed difference in the response variable.
+
+
+
+### Chapter 5 Question 17
+
+**a) Explain why blinding is used in experiments.**
+
+Blinding is used in an experiment to prevent bias from occurring due to the researcher knowing which patients are in which group while measuring results (note also a double-blind experiment is one in which neither the participant nor the researcher knows who had which treatment. A single-blind experiment is one in which only one of the two knows).
+
+**b) Explain why it is not always possible to make an experiment double-blind. You can refer to an example in the chapter here.**
+
+A double-blind experiment may not work for practical reasons. For example, testing meditation or exercise on blood pressure, the subjects would certainly know if they are in a group doing meditation or exercise. In either of these cases, the experiment is necessarily single-blind.
+
+### Chapter 5 Question 22:
+
+**Find the story referenced as News Story 5 "Driving while distracted is common, researchers say" and consult the first page in `Original Source 5`. Explain the extent to which ecological validity may be a problem in this study and what the researchers do to try to minimize the problem**
+
+Ecological validity requires that the methods, materials, and setting of the study approximate the real-life situation that is under investigation. In recruiting participants, researchers did not identify the true purpose of the study, but only that it was to learn "how traffic and roadway conditions affect driving behavior." Nevertheless, their driving behaviors might have been altered in light of the study. Researchers did attempt to mimic much of the drivers' normal driving environment. "In Phase II of the study [researchers] used miniature video cameras unobtrusively installed in subject vehicles to collect exposure data on [the] distractions, along with observational data of their effects on some aspects of driving performance." The mere presence of a camera in the car may have altered the subjects' driving behavior. "The camera unit was mounted inside the vehicle just below the vehicle's rear view mirror. Two of the cameras were directed inside at the driver and front seat area of the vehicle, and the third was directed outside the vehicle straight ahead." 

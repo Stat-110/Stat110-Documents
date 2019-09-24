@@ -1,0 +1,44 @@
+---
+title: "Stat 110 - Lecture 6"
+author: "Joe Roith"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+### Time/Location
+
+Tuesdays: 11:45 - 1:10 PM (85 min)
+
+RNS 210
+
+### Previous class
+
+Finally finished with study design and articles, sampling techniques, etc. There may be linguring questions about confounding/interacting variables (**Confounding vars. - not measured/collected. Interacting vars. - collected/displayed interactions**). Did not get to the quiz, so need to start class with short table quiz.
+
+### Breakdown
+
+| Part | Topic | Description | Duration |
+| ---- | ---------------- | ------------------------------- | ---------- |
+| 0.1 | **Orientation** | We've moved again!! | 0 min |
+| 0.2 | **QOD**| Do you know how to CUSS? | 0 min |
+| 0.3 | **Mindfulness** | | 1 min |
+| | | **Begin Class** |
+| 1 | **Quiz 2** | Start quickly and don't answer questions about it after!! | 20 min |
+| 2 | **Thought questions** | Start Ch. 7 slides, go through questions and get responses (~5 min each) | 20 min |
+| 3 | **Lecture** | CUSS slides | 30 min |
+| 4 | **In Pairs** | Practice gauging SD/spread| 15 min|
+| 5 | **Wrap-up**|  | 0 min |
+| | | **See you next time!** |
+
+
+## New/Announcements
+
++ **New Homework #4**
+
++ **Grades and keys are becoming available**
+
+
+

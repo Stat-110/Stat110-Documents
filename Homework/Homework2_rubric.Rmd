@@ -1,0 +1,88 @@
+---
+title: 'Homework #2 Key and Rubric'
+author: "Joe Roith"
+subtitle: "Stat 110 - Fall 2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## For grading
+
+This assignment is worth **20 points**. Use similar guidelines and judgement to subjective responses as the first assignment.
+
+
+### Chapter 1 Question 5 - 2 pts
+
+**Many research organizations give their interviewers an exact script to follow when conducting interviews to measure opinions on controversial issues. Why do you think they do so?**
+
+Research organizations give their interviewers an exact script to follow to ensure consistency across interviewers, especially to measure controversial issues. The exact wording of the question, order of questions, etc. can impact the answers and incur bias.
+
+### Chapter 2 Question 10 - 2 pts
+
+**In most studies involving human participants, reserchers are required to fully disclose the purpose of the study to the participants. Do you think people should always be informed about the purpose *before* they participate? Explain.**
+
+Not always. If we are testing something where participant (pre-)knowledge of the nature of the experiment would bias the results, then likely we would want to inform them afterwards. There are a number of examples here - consider a case where we are studying whether or not people are helpful when faced with someone in trouble. Telling the participants that the researchers are measuring helpfulness would likely bias the results as most people want to be viewed as helpful.
+
+### Chapter 3 Question 8 - 2 pts
+
+**In February 1998, U.S. President Bill Clinton was under investigation for allegedly having an extramarital affair. A Gallup Poll asked the following two questions: "Do you think most presidents have or have not had extramarital affairs while they were president?" and then "Would you describe Bill Clinton's faults as worse than most other presidents, or as no worse than most other presidents?" For the first question, 59% said "have had", 33% said "have not", and the remaining 8% had no opinion. For the second question 24% said "worse", 75% said "no worse", and only 1% had no opinion. Do you think the order of these two questions influenced the results? Exlain.**
+
+Yes! The response to the first question likely influenced the response to the second question. After considering the behavior of previous Presidents (Kennedy) people were less likely to be critical of Clinton's behavior. First, the majority acknowledge thinking that most Presidents have had affairs. Then, they couldn't really describe Clinton's faults as worse than others. Note that this poll was conducted prior to perjury as well.
+
+### Chapter 3 Question 11 - 1pt each part
+
+**Refer to Original Source 13 on Moodle. a) Locate the questions asked of the teens, in Appendix D. Two questions asked as "open questions" were Question 1 and Question 11. Explain which of the two questions was less likely to cause problems in categorizing the answers.**
+
+Question 1 asks "What is your age?" and Question 11 asks "Is there something you do, an activity or a hobby or a sport, that you are really into? What is that?" In terms of categorization, the first one would likely cause less problems. There's really only one answer for your age (most likely in years), but many, many possibilities for answers to what activities you like. Categorizing these (Hiking, Camping, Being outside, Mountaineering, Orienteering, etc.) would likely be very difficult.
+
+**b) The most common response to Question 11 was "Sports team". Read the question and explain why this might have been the case.**
+
+A few possible answers here, but this is probably because `sports` is stated in the problem.
+
+**c) Two versions of Question 28 were asked, one using the word *sold* and one using the word *used*. Did the wording of the question appear to affect the responses? Expain.**
+
+The response percentages are approximately the same, so the wording didn't appear to affect the responses that much.
+
+### Chapter 3 Question 13 - 1 pt each part
+
+**Give an example of a survey question that is:**
+**a) Most appropriately asked as an open quesiton.**
+
+Many possible answers. "What is the most important event of the twentieth century?" might be best asked as an open question.
+
+**b) Most appropriately asked as a closed question.**
+
+How about "Do you approve of the job Congress is doing so far?" Many other possible answers.
+
+
+### Chapter 3 Question 35 - 0.5 pts each part
+
+**Refer to `Original Source 13` on Moodle. Locate the questions asked of the parents, in Appendix E. For each of the following questions explain whether the response was a nominal variable, an ordinal variable, or a measurement variable.**
+
+**a) Question 2 (Gender of Respondent):** Nominal
+
+**b) Question 9 (Education Satisfaction):** Ordinal
+
+**c) Quesiton 12 (Smoking Rules):** Nominal/Ordinal (could argue for either here)
+
+**d) Question 19 (Illegal Drug Users):** Numeric (note question says "Record Actual Response")
+
+**e) Question 29 (Policyc Effectiveness):** Ordinal
+
+**f) Question 30 (Disposable Income):** Numeric (note question says "Record Actual Response")
+
+
+
+## Lab Response - 6 pts
+
+For each of the proposed questions I want to see the following 3 items:
+
+* Clearly state the variable(s) and/or question to answer.
+
+* An **appropriate** plot depending on their variable(s).
+
+* A comment on how they think their plot answers (or fails to answer) their question. I am not looking for statistical evidence of effects/relationships. I imagine some students may casually throw out words like correlation or significant, they don't need to lose points, but gently inform them that these are terms with very specific meaning in statistics and should only be used when their exact meaning and intent is known (a few may already know the correct usage).
+
+
+It is possible that someone may use one variable to ask/answer a question. While I did not explicitly request using two variables, you can comment that summarizing a single variable is nice but rarely gives us the insight that considering two (or more) variables does.
